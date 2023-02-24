@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "647710270372",
+    "project_id": "dungloinuama",
+    "storage_bucket": "dungloinuama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647710270372:android:d1f8f00bdb941a4eabd731",
+        "android_client_info": {
+          "package_name": "com.example.originner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647710270372-n0dahto2oabbrfrepm5gvbidd7l2seto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.originner",
+            "certificate_hash": "802dbf96e64f9a528d320e818cc44991dd9fd3f1"
+          }
+        },
+        {
+          "client_id": "647710270372-mbqq5mtcn7pdu06chpd5tintq6mbjnp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuDmQ3dvk7MVU77tDeJx0LzIII0OAFSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647710270372-mbqq5mtcn7pdu06chpd5tintq6mbjnp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647710270372-3a7fkssvj5r8cdhbne3o3oc1qtn2vr8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
